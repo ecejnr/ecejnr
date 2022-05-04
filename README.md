@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ecejnr
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Machine Learning with Python
-- 💞️ I’m looking to collaborate on Datta science projects
+- 💞️ I’m looking to collaborate on Data science projects
 - 📫 How to reach me ekeohachidi@gmail.com
 
 <!---
